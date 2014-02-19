@@ -71,6 +71,7 @@ Endpoints:
   Private-Port-Name: PORT_INFLUXDB_ADMIN
   Private-Port: 8083
   Public-Port-Name: DB_ADMIN
+  Public-Port: 9983
   Protocols:
   - http
   Mappings:
